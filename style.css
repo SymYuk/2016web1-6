@@ -1,5 +1,12 @@
 @charset "UTF-8"
 
+.cool
+{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 100px;
+}
+
 .btn
 {
   font-weight: bold;
@@ -41,9 +48,4 @@
   float: right;
 }
 
-.cool
-{
-  border: 1px solid lightcoral;
-  padding: 5px;
-  width: 100px;
-}
+
