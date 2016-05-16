@@ -7,16 +7,14 @@ body
 
 .btn
 {
-  text-decoration: none;
   font-weight: bold;
   text-align: center;
-  display: block;
   -webkit-appearance: none;
   -webkit-border-radius: 0;
   width: 60px;
   height: 38px;
   border: 1px solid #765;
-  border-radius: 70px;
+  border-radius: 700px;
   -moz-border-radius: 70px;
   -webkit-border-radius: 70px;
   padding: 30px 30px 30px 30px;
