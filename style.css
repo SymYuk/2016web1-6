@@ -16,7 +16,7 @@ body
   border-radius: 70px;
   -moz-border-radius: 70px;
   -webkit-border-radius: 70px;
-  padding: 30px;
+  padding: 25px 30px 30px 30px;
 }
 
 .col1
