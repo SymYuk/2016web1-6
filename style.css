@@ -7,6 +7,13 @@ tr
   width: 100px;
 }
 
+.cool
+{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 100px;
+}
+
 .col1
 {
   background-color: #eebbcb;
