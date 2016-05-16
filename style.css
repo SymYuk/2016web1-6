@@ -1,12 +1,5 @@
 @charset "UTF-8"
 
-tr
-{
-  border: 1px solid lightcoral;
-  padding: 5px;
-  width: 100px;
-}
-
 .col1
 {
   background-color: #eebbcb;
@@ -46,4 +39,11 @@ tr
   -moz-border-radius: 70px;
   -webkit-border-radius: 70px;
   padding: 30px 30px 30px 30px;
+}
+
+tr
+{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 100px;
 }
