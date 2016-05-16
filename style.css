@@ -5,7 +5,7 @@ body
   background-color:PeachPuff;
 }
 
-#btn
+.btn
 {
   -webkit-appearance: none;
   -webkit-border-radius: 0;
