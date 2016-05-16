@@ -19,17 +19,17 @@ body
   padding: 42px 20px 20px;
 }
 
-.btn.1
+.col1
 {
   background-color: #eebbcb;
 }
 
-.btn.2
+.col2
 {
   background-color: #c1e4e9;
 }
 
-.btn.3
+.col3
 {
   background-color: #aacf53;
 }
