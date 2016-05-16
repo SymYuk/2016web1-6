@@ -33,6 +33,7 @@
 .l
 {
   float: left;
+  
 }
 
 .r
@@ -42,5 +43,7 @@
 
 .cool
 {
-  border: 1px;
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 100px;
 }
